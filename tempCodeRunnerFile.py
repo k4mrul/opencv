@@ -1,0 +1,1 @@
+cv2.putText(img," OpenCV ", (300,200),cv2.FONT_HERSHEY_COMPLEX,1,(0,150,0),3)
